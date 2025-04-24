@@ -1,2 +1,2 @@
 # churn-analysis-PowerBi
-This project is a case study on customer churn analysis for a fictional telecom company called Databel. 
+This project presents a case study on customer churn analysis for a fictional telecom company, Databel. Using Power BI, I performed exploratory data analysis (EDA) on customer data from a specific time period to uncover behavioral trends and service usage patterns. The goal was to investigate churn patterns, identify key contributing factors, and visualize insights through an interactive dashboard that supports strategic decision-making.
