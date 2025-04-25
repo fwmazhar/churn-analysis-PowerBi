@@ -8,7 +8,7 @@ Using Power BI, I performed exploratory data analysis (EDA) on customer data fro
 
 The key goals of the project were to:
 
-investigate churn patterns  
+- investigate churn patterns  
 
 - identify key contributing factors
 
