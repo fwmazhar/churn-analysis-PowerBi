@@ -1,4 +1,4 @@
-# churn-analysis-PowerBi
+# Churn Analysis In PowerBi
 
 
 ## Project Overview
