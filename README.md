@@ -24,6 +24,8 @@ investigate churn patterns
 
 - Data Plan Opportunity: Customers without unlimited plans who consume more than 10GB of data are being charged significantly — suggesting an upsell opportunity. Targeting these customers with unlimited plan offers may increase satisfaction and retention.
 
+- Geographic Insight: The majority of churned customers are located in California (CA), highlighting a potential regional issue or competitive pressure that warrants further investigation.
+
 
 ## Tools & Skills Used:
 - Power BI (Data modeling, DAX, Power Query)
