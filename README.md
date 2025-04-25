@@ -14,6 +14,18 @@ investigate churn patterns
 
 - visualize insights through an interactive dashboard that supports strategic decision-making
 
+## Power BI Report Structure:
+- Overview Page
+Provides a high-level summary of customer churn across the company. Includes overall churn rate, total customers vs. churned customers, churn trends over time, and top churn reasons. This page is designed to give decision-makers a snapshot of the problem.
+
+![1](https://github.com/user-attachments/assets/4fed1af3-ca1a-4b6f-8fd0-9d770f42964b)
+
+- Age Groups Page
+Focuses on how churn behavior varies by age. This page explores the relationship between customer age, plan types, and churn likelihood.
+
+- Service and Payment Page
+Analyzes churn based on service plans, payment methods, and subscription types. It highlights combinations of services that lead to higher churn and opportunities for retention improvement.
+
 ## Key Insights Delivered:
 
 - Contract Type Impact: Customers with month-to-month contracts had the highest churn rate, with nearly 50% leaving the service — a clear indicator of instability in short-term subscriptions.
