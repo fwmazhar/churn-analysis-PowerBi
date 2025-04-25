@@ -22,9 +22,11 @@ Provides a high-level summary of customer churn across the company. Includes ove
 
 - Age Groups Page
 Focuses on how churn behavior varies by age. This page explores the relationship between customer age, plan types, and churn likelihood.
+![2](https://github.com/user-attachments/assets/cc24478f-00e5-41dc-a27f-1cae6bf0e5a3)
 
 - Service and Payment Page
 Analyzes churn based on service plans, payment methods, and subscription types. It highlights combinations of services that lead to higher churn and opportunities for retention improvement.
+![3](https://github.com/user-attachments/assets/20be0238-6233-49e4-a448-b22490ae8b65)
 
 ## Key Insights Delivered:
 
